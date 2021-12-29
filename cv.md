@@ -51,5 +51,3 @@ Preparatory course «JavaScript/Front-end. Stage 0».
 # Languages
 - Russian – Native
 - English — A2 level
-
-
