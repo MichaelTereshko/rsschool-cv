@@ -17,3 +17,25 @@ In the future, I would like to create useful and user-friendly applications and 
 I am just starting to learn, so I cannot boast of any particular skills in the field of programming.
 
 I have a little experience with HTML, CSS, JavaScript, Git.
+*****
+# Code Examples
+```
+// BEGIN
+const multiplyNumbersFromRange = (start, finish) => {
+  let i = start;
+  let result = 1;
+  while (i <= finish) {
+    result = result * i;
+    i = i + 1;
+  }
+  return result;
+};
+console.log(multiplyNumbersFromRange(1,7));
+// END
+```
+*****
+# Experience
+I haven't experience working in companies as a front-end developer.
+
+### My first project is my CV
+
