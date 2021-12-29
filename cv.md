@@ -38,4 +38,18 @@ console.log(multiplyNumbersFromRange(1,7));
 I haven't experience working in companies as a front-end developer.
 
 ### My first project is my CV
+*****
+# Education
+**2004 - 2009**
+
+Belsrusian-Russian University, Faculty of Electrical Engineering, Department of Physical Control Methods, speciality is Devices and Methods of Qality Control and Diagnostics.
+
+**2021 (December — to the present)**
+
+Preparatory course «JavaScript/Front-end. Stage 0».
+*****
+# Languages
+- Russian – Native
+- English — A2 level
+
 
